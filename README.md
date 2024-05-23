@@ -7,7 +7,7 @@ Ce projet utilise des techniques d'apprentissage automatique pour prévoir la de
 Pour installer ce projet, assurez-vous que votre environnement Python est équipé des bibliothèques nécessaires :
 ```bash
 pip install numpy pandas scikit-learn matplotlib
-
+```
 ## Datasets
 Les Datasets pour ce projet sont disponibles sous forme de trois fichiers CSV hébergés sur GitHub. Vous pouvez télécharger ces fichiers en cliquant sur les liens ci-dessous :
 
